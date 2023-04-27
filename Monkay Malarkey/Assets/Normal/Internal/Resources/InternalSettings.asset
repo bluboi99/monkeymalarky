@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1251306160, guid: de4e3cd1c2fd2004e931b159d0c83955, type: 3}
+  m_Script: {fileID: 1251306160, guid: 5173c3ea7f8dbdc47871e62b3e5c7906, type: 3}
   m_Name: InternalSettings
   m_EditorClassIdentifier: 
   _migration:
     lastPromptedVersion: 4
     version: 4
-  _projectGUID: ef1574fa-5a35-4c02-b1ea-980e60a6fc03
+  _projectGUID: e185bf35-921e-4e5c-bb8e-011f46fd7a5a
